@@ -1,4 +1,4 @@
-20euros
+2048 Warcraft Edition
 =======
 
-A 2048 variant with Euro coins and notes.
+A 2048 variant with World of Warcraft Heroes.
